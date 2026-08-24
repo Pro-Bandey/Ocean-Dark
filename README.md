@@ -34,10 +34,6 @@
   <img src="https://pro-bandey.github.io/shots/Ocean-Dark/002.png" width="45%" alt="Ocean Dark Screenshot 2">
 </p>
 
-<p align="center">
-  <img src="https://pro-bandey.github.io/shots/Ocean-Dark/003.png" width="45%" alt="Ocean Dark Screenshot 3">
-  <img src="https://pro-bandey.github.io/shots/Ocean-Dark/004.png" width="45%" alt="Ocean Dark Screenshot 4">
-</p>
 
 </details>
 
