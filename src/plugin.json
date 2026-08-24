@@ -1,0 +1,30 @@
+{
+  "$schema": "https://acode.app/schema/plugin/v0.1.0.json",
+  "id": "acode.plugin.oceandark",
+  "name": "Ocean Dark",
+  "version": "1.0.0",
+  "description": "A sleek, deep-sea oceanic dark theme for Acode editor featuring abyssal navy tones and vibrant bioluminescent cyan accents.",
+  "main": "main.js",
+  "icon": "icon.png",
+  "readme": "readme.md",
+  "changelogs": "changelog.md",
+  "files": [],
+  "minVersionCode": 290,
+  "price": 0,
+  "license": "Apache-2.0",
+  "repository": "https://github.com/Pro-Bandey/Ocean-Dark",
+  "keywords": [
+    "theme",
+    "ocean",
+    "dark",
+    "cyan",
+    "acode",
+    "editor",
+    "color-scheme"
+  ],
+  "author": {
+    "name": "Pro Bandey",
+    "github": "Pro-Bandey",
+    "url": "https://Pro-Bandey.github.io"
+  }
+}
