@@ -1,5 +1,5 @@
 {
-  "name": "acode-plugin-OceanDark",
+  "name": "acode-plugin-oceandark",
   "version": "1.2.0",
   "description": "A sleek, deep-sea oceanic dark theme for Acode editor featuring abyssal navy tones and vibrant bioluminescent cyan accents.",
   "main": "dev/main.js",
